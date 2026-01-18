@@ -1,11 +1,9 @@
 {
-  "name": "mc-bot",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "ai-adho",
   "dependencies": {
-    "mineflayer": "latest"
+    "mineflayer": "latest",
+    "openai": "latest",
+    "mineflayer-pathfinder": "latest"
   },
-  "scripts": {
-    "start": "node index.js"
-  }
+  "scripts": { "start": "node index.js" }
 }
